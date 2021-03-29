@@ -3,7 +3,7 @@ Hey there,i'm Deepkamal!
 - 👀 I’m currently working on a Machine Learning Project.
 - 🌱 I’m currently learning Deep Learning & Neural Networks from Coursera and Kaggle
 - 💞️ I’m looking to collaborate on Data Science and Machine Learning domains.
-- 📫 How to reach me ...
+- 📫 How to reach me -->
       -LinkedIn: https://www.linkedin.com/feed/
 
 <!---
